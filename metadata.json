@@ -1,0 +1,6 @@
+{
+  "name": "SettlementGuard v3.0",
+  "description": "Autonomous AI Agent for Razorpay Daily Settlement Reconciliation, Multi-Bank Anomaly Detection, MDR Optimization, and RBI Compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
