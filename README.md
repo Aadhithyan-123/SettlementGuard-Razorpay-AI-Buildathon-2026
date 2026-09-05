@@ -7,7 +7,7 @@
 [![Evaluation Batch](https://img.shields.io/badge/Batch_Throughput-100%20Records%20(₹1.23%20Cr)-emerald.svg)](https://github.com)
 [![Reconciliation Rate](https://img.shields.io/badge/Match_Rate-95.2%25%20Verified-green.svg)](https://github.com)
 [![AI Engine](https://img.shields.io/badge/AI-Gemini%202.5%20Flash%20%7C%20Web%20Speech%20Voice%20AI-blue.svg)](https://ai.google.dev)
-[![Accounting Integration](https://img.shields.io/badge/Accounting-Tally%20Prime%20%7C%20Zoho%20Books%20%7C%20Excel-indigo.svg)](https://tallysolutions.com)
+[![Accounting Integration](https://img.shields.io/badge/Accounting-7C%20Excel-indigo.svg)](https://tallysolutions.com)
 [![Optimization Engine](https://img.shields.io/badge/Optimization-Thompson%20Sampling%20MAB-orange.svg)](https://github.com)
 
 ---
