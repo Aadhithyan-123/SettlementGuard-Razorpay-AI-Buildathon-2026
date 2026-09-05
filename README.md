@@ -1,6 +1,6 @@
 # SettlementGuard v3.0: Autonomous Razorpay Settlement & Cash Position Controller
 
-> **Submission for Razorpay AI Buildathon — Track 04: AI Finance Controller**  
+> **Submission for Razorpay AI Buildathon 2026 — Track 04: AI Finance Controller**  
 > *"Run the books and the cash position: Close one finance-ops loop across a 50+ record batch of synthetic data, reporting match rate and the exceptions that could not be resolved."*
 
 [![Razorpay Buildathon Track 04](https://img.shields.io/badge/Razorpay_AI_Buildathon-Track_04:_AI_Finance_Controller-blue?style=flat-square)](https://razorpay.com/buildathon)
